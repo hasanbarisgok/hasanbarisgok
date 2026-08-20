@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Terminal-style card: Hasan Barış Gök — AI Engineer, MSc Researcher, Software Engineer"/>
+<img src="./assets/profile-terminal.svg" width="100%" alt="Hasan Barış Gök — terminal profile card"/>
 
 # Hasan Barış Gök
 
@@ -175,7 +175,7 @@ Plus a number of client websites, landing pages and small APIs delivered on Next
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,azure,linux,git,figma" alt="Docker, GitHub Actions, Vercel, Azure, Linux, Git, Figma"/>
 
-`CI/CD` · `Railway` · `Sentry` · `Playwright` · `GitHub API` · `Claude Code` · `Jira`
+`CI/CD` · `Railway` · `Sentry` · `Playwright` · `GitHub API` · `Jira`
 
 </div>
 

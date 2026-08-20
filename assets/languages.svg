@@ -5,15 +5,15 @@
 <text x="260.0" y="23.5" text-anchor="middle" class="t">hasanbarisgok — languages (public repos)</text>
 <line x1="0.5" y1="38" x2="519.5" y2="38" stroke="#30363d"/>
 <text x="22" y="62"><tspan class="g k">$</tspan> <tspan class="b">gh langs --top 7 --exclude markup,notebooks</tspan></text>
-<rect x="24.0" y="76" width="342.8" height="8" rx="2" fill="#3572A5"/>
-<rect x="368.8" y="76" width="124.9" height="8" rx="2" fill="#f1e05a"/>
+<rect x="24.0" y="76" width="349.2" height="8" rx="2" fill="#3572A5"/>
+<rect x="375.2" y="76" width="118.5" height="8" rx="2" fill="#f1e05a"/>
 <rect x="495.7" y="76" width="0.0" height="8" rx="2" fill="#3B2F63"/>
 <circle cx="32" cy="104" r="5" fill="#3572A5"/>
 <text x="46" y="108">Python</text>
-<text x="496" y="108" text-anchor="end" class="m">73.1%</text>
+<text x="496" y="108" text-anchor="end" class="m">74.4%</text>
 <circle cx="32" cy="126" r="5" fill="#f1e05a"/>
 <text x="46" y="130">JavaScript</text>
-<text x="496" y="130" text-anchor="end" class="m">26.9%</text>
+<text x="496" y="130" text-anchor="end" class="m">25.5%</text>
 <circle cx="32" cy="148" r="5" fill="#3B2F63"/>
 <text x="46" y="152">Procfile</text>
 <text x="496" y="152" text-anchor="end" class="m">0.1%</text>

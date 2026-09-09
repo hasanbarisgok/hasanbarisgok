@@ -7,8 +7,6 @@
 **AI Engineer · MSc Researcher (Computer Engineering) · Software Engineer**
 
 <a href="https://hasanbarisgok.com/"><img src="https://img.shields.io/badge/Portfolio-hasanbarisgok.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/hasanbarisgok"><img src="https://img.shields.io/badge/LinkedIn-hasanbarisgok-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/hasanbarisgok"><img src="https://img.shields.io/badge/X-@hasanbarisgok-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:hasanbarisgok@gmail.com"><img src="https://img.shields.io/badge/Email-hasanbarisgok@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
@@ -19,11 +17,11 @@
 
 I build **AI systems that survive contact with production** — LLM applications, retrieval-grounded (RAG) pipelines, multi-agent orchestration, and the evaluation tooling that tells you whether any of it actually works. I own the full loop: **system design → model integration → evaluation → deployment → operations**.
 
-- 🎓 MSc researcher in **Computer Engineering** at **Çukurova University** — LLM context reliability, RAG evaluation, computer vision
+- 🎓 MSc researcher in **Computer Engineering** — LLM context reliability, RAG evaluation, computer vision
 - 🚀 Shipped **two iOS apps** on the App Store, **two web products** (Influs live, Fetchrole in early access), and an internal **agentic engineering platform**
 - 🧱 Comfortable across the stack: **Python / FastAPI**, **TypeScript / Next.js**, **Supabase / PostgreSQL**, **SwiftUI**, **Docker & CI/CD**
 - 🧑‍🤝‍🧑 Founded and led a **Google Developer Student Clubs** chapter — organised **23 technical events**
-- 🌍 Based in Türkiye, working with international and remote teams
+- 🌍 Working with international and remote teams
 
 <br/>
 
@@ -133,11 +131,11 @@ Plus a number of client websites, landing pages and small APIs delivered on Next
 | Project | Context | Notes |
 |---|---|---|
 | **COVID-19 & Pneumonia CXR Detection** | Published on Zenodo · [DOI 10.5281/zenodo.18139089](https://doi.org/10.5281/zenodo.18139089) | MATLAB → ONNX → FastAPI; reproducible research artefact |
-| **Depth-Aware YOLO Aerial Detection** | Computer Vision (CENG0038), Çukurova University — MSc | 0.987 mAP50 on a 4-class oriented-box dataset; live demo |
+| **Depth-Aware YOLO Aerial Detection** | Computer Vision — MSc | 0.987 mAP50 on a 4-class oriented-box dataset; live demo |
 | **ParaContext** | Information Retrieval — MSc | LLM context adherence & position-bias benchmark |
 | **Text-based feature selection** | MSc research — ongoing | Feature selection strategies for text representations |
-| **Turkish Toxic Comment Filter** | NLP (BMB434), Osmaniye Korkut Ata University | Self-built 5k-comment dataset, classifier, Chrome extension |
-| **Distributed Tic-Tac-Toe** | Distributed Processing, Politechnika Gdańska | Socket/thread-based multiplayer game server & client — team lead ([repo](https://github.com/hasanbarisgok/PG_DistrubutedProcessing_XOX)) |
+| **Turkish Toxic Comment Filter** | NLP — BSc | Self-built 5k-comment dataset, classifier, Chrome extension |
+| **Distributed Tic-Tac-Toe** | Distributed Processing — exchange semester | Socket/thread-based multiplayer game server & client — team lead ([repo](https://github.com/hasanbarisgok/PG_DistrubutedProcessing_XOX)) |
 | **Military Expenditure Dashboard** | Data visualisation | Interactive geopolitical data visualisation |
 
 <br/>
@@ -204,7 +202,7 @@ Plus a number of client websites, landing pages and small APIs delivered on Next
 
 Open to **AI systems work, research collaborations, and interesting engineering problems.**
 
-[hasanbarisgok.com](https://hasanbarisgok.com/) · [LinkedIn](https://www.linkedin.com/in/hasanbarisgok) · [X](https://x.com/hasanbarisgok) · [hasanbarisgok@gmail.com](mailto:hasanbarisgok@gmail.com)
+[hasanbarisgok.com](https://hasanbarisgok.com/) · [hasanbarisgok@gmail.com](mailto:hasanbarisgok@gmail.com)
 
 <sub>research → systems → production</sub>
 
